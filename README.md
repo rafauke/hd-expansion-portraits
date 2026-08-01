@@ -9,6 +9,7 @@ only the VCMI metadata and exact runtime assets.
 ## Current heroes
 
 - Armageddon's Blade
+  - Adrienne (`000SH`)
   - Dracon (`003SH`)
   - Gelu (`004SH`)
   - Kilgor (`005SH`)
