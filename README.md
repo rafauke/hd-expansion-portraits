@@ -12,8 +12,9 @@ only the VCMI metadata and exact runtime assets.
   - Dracon (`003SH`)
 
 Hero submods are grouped by the release that introduced the corresponding
-portrait resource. Planned groups cover Armageddon's Blade, Shadow of Death,
-Restoration of Erathia campaign resources, and eventually Heroes Chronicles.
+portrait resource. The initial scope covers Armageddon's Blade and Shadow of
+Death. Restoration of Erathia will get a group only if uncovered campaign
+resources are found; Heroes Chronicles may follow later.
 
 ## Runtime sizes
 
