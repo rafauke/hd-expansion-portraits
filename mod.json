@@ -3,7 +3,7 @@
     "description": "Hand-crafted HD portraits for Heroes III expansion and campaign heroes not covered by the official HD Edition assets.",
     "author": "rwyszomirski",
     "modType": "Graphical",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "compatibility": {
         "min": "1.6.8"
     },
@@ -14,6 +14,9 @@
         "hd-edition"
     ],
     "changelog": {
+        "0.1.1": [
+            "Organized hero submods by their originating Heroes III release."
+        ],
         "0.1.0": [
             "Initial work-in-progress release with Dracon."
         ]

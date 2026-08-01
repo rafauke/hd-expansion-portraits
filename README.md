@@ -1,15 +1,19 @@
 # HD Expansion Portraits
 
-Work-in-progress VCMI portrait mod containing hand-crafted HD portraits for the
-33 Armageddon's Blade and Shadow of Death heroes absent from Ubisoft's Heroes
-III HD Edition portrait set.
+Work-in-progress VCMI portrait mod containing hand-crafted HD portraits for
+heroes absent from Ubisoft's Heroes III HD Edition portrait set.
 
 The project is intentionally built one hero at a time. This repository contains
 only the VCMI metadata and exact runtime assets.
 
 ## Current heroes
 
-- Dracon (`003SH`)
+- Armageddon's Blade
+  - Dracon (`003SH`)
+
+Hero submods are grouped by the release that introduced the corresponding
+portrait resource. Planned groups cover Armageddon's Blade, Shadow of Death,
+Restoration of Erathia campaign resources, and eventually Heroes Chronicles.
 
 ## Runtime sizes
 
