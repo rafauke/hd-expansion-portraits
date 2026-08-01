@@ -11,6 +11,7 @@ only the VCMI metadata and exact runtime assets.
 - Armageddon's Blade
   - Dracon (`003SH`)
   - Gelu (`004SH`)
+  - Kilgor (`005SH`)
   - Mutare (`007SH`)
   - Mutare (Dragon) (`008SH`)
 - Shadow of Death
