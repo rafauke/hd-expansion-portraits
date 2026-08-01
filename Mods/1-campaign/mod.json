@@ -1,0 +1,9 @@
+{
+    "name": "Campaign and Expansion Heroes",
+    "description": "HD portraits for campaign and expansion heroes.",
+    "modType": "Graphical",
+    "polish": {
+        "name": "Bohaterowie kampanii i dodatków",
+        "description": "Portrety HD bohaterów kampanii i dodatków."
+    }
+}

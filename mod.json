@@ -1,0 +1,25 @@
+{
+    "name": "HD Expansion Portraits",
+    "description": "Hand-crafted HD portraits for Heroes III expansion and campaign heroes not covered by the official HD Edition assets.",
+    "author": "rwyszomirski",
+    "modType": "Graphical",
+    "version": "0.1.0",
+    "compatibility": {
+        "min": "1.6.8"
+    },
+    "conflicts": [
+        "ensrick-portraits"
+    ],
+    "softDepends": [
+        "hd-edition"
+    ],
+    "changelog": {
+        "0.1.0": [
+            "Initial work-in-progress release with Dracon."
+        ]
+    },
+    "polish": {
+        "name": "Portrety HD z dodatków",
+        "description": "Ręcznie przygotowane portrety HD bohaterów z dodatków i kampanii Heroes III, których nie obejmują oficjalne zasoby HD Edition."
+    }
+}
