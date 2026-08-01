@@ -10,11 +10,14 @@ only the VCMI metadata and exact runtime assets.
 
 - Armageddon's Blade
   - Adrienne (`000SH`)
+  - Boragus (`001SH`)
+  - Christian (Young) (`002SH`)
   - Dracon (`003SH`)
   - Gelu (`004SH`)
   - Kilgor (`005SH`)
   - Mutare (`007SH`)
   - Mutare (Dragon) (`008SH`)
+  - Roland (`009SH`)
 - Shadow of Death
   - Lord Haart (Undead) (`006SH`)
 
