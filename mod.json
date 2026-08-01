@@ -1,6 +1,6 @@
 {
     "name": "HD Expansion Portraits",
-    "description": "HD portraits for Heroes III expansion and campaign heroes not covered by the official HD Edition assets.",
+    "description": "A companion mod for Heroes III HD Edition that adds missing HD portraits for Conflux heroes and characters from the Armageddon's Blade and Shadow of Death campaigns.",
     "author": "rafauke",
     "modType": "Graphical",
     "version": "0.2.0",
@@ -26,6 +26,6 @@
     },
     "polish": {
         "name": "Portrety HD z dodatków",
-        "description": "Portrety HD bohaterów z dodatków i kampanii Heroes III, których nie obejmują oficjalne zasoby HD Edition."
+        "description": "Mod uzupełniający Heroes III HD Edition, który dodaje brakujące portrety HD bohaterów Wrót Żywiołów oraz postaci z kampanii Armageddon's Blade i Cienia Śmierci."
     }
 }
