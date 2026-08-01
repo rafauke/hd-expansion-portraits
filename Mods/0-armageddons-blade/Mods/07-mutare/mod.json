@@ -1,9 +1,9 @@
 {
     "name": "Mutare",
-    "description": "Hand-crafted HD portrait for Mutare.",
+    "description": "HD portrait for Mutare.",
     "modType": "Graphical",
     "polish": {
         "name": "Mutare",
-        "description": "Ręcznie przygotowany portret HD Mutare."
+        "description": "Portret HD Mutare."
     }
 }

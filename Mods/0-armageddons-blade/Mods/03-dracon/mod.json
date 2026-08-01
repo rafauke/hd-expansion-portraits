@@ -1,9 +1,9 @@
 {
     "name": "Dracon",
-    "description": "Hand-crafted HD portrait for Dracon.",
+    "description": "HD portrait for Dracon.",
     "modType": "Graphical",
     "polish": {
         "name": "Dracon",
-        "description": "Ręcznie przygotowany portret HD Dracona."
+        "description": "Portret HD Dracona."
     }
 }

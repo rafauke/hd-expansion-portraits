@@ -1,9 +1,9 @@
 {
     "name": "Gelu",
-    "description": "Hand-crafted HD portrait for Gelu.",
+    "description": "HD portrait for Gelu.",
     "modType": "Graphical",
     "polish": {
         "name": "Gelu",
-        "description": "Ręcznie przygotowany portret HD Gelu."
+        "description": "Portret HD Gelu."
     }
 }

@@ -1,6 +1,6 @@
 # HD Expansion Portraits
 
-Work-in-progress VCMI portrait mod containing hand-crafted HD portraits for
+Work-in-progress VCMI portrait mod containing HD portraits for
 heroes absent from Ubisoft's Heroes III HD Edition portrait set.
 
 The project is intentionally built one hero at a time. This repository contains

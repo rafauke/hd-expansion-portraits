@@ -1,6 +1,6 @@
 {
     "name": "HD Expansion Portraits",
-    "description": "Hand-crafted HD portraits for Heroes III expansion and campaign heroes not covered by the official HD Edition assets.",
+    "description": "HD portraits for Heroes III expansion and campaign heroes not covered by the official HD Edition assets.",
     "author": "rwyszomirski",
     "modType": "Graphical",
     "version": "0.2.0",
@@ -15,7 +15,7 @@
     ],
     "changelog": {
         "0.2.0": [
-            "Added hand-crafted HD portraits for Gelu."
+            "Added HD portraits for Gelu."
         ],
         "0.1.1": [
             "Organized hero submods by their originating Heroes III release."
@@ -26,6 +26,6 @@
     },
     "polish": {
         "name": "Portrety HD z dodatków",
-        "description": "Ręcznie przygotowane portrety HD bohaterów z dodatków i kampanii Heroes III, których nie obejmują oficjalne zasoby HD Edition."
+        "description": "Portrety HD bohaterów z dodatków i kampanii Heroes III, których nie obejmują oficjalne zasoby HD Edition."
     }
 }
