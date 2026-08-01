@@ -13,6 +13,8 @@ only the VCMI metadata and exact runtime assets.
   - Gelu (`004SH`)
   - Mutare (`007SH`)
   - Mutare (Dragon) (`008SH`)
+- Shadow of Death
+  - Lord Haart (Undead) (`006SH`)
 
 Hero submods are grouped by the release that introduced the corresponding
 portrait resource. The initial scope covers Armageddon's Blade and Shadow of
